@@ -15,4 +15,4 @@
 :HL["/tglal/libros/the-outsiders.jpg","image"]
 :HL["/tglal/libros/the-psychology-of-money.jpg","image"]
 :HL["/tglal/libros/thinking-fast-and-slow.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"invitado","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"016-andres-olea","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"wj7LeyR_fkwSI_gN5RKAL"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"invitado","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"016-andres-olea","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"eCJ39l7_PmjCeLmzh4eDR"}
