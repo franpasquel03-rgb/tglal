@@ -9,4 +9,4 @@
 :HL["/tglal/libros/el-vendedor-mas-grande-del-mundo.jpg","image"]
 :HL["/tglal/libros/habitos-atomicos.jpg","image"]
 :HL["/tglal/libros/quien-se-ha-llevado-mi-queso.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"invitado","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"003-salame","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"Y2FxapXzGrsb2EulthcNV"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"invitado","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"003-salame","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"pZDO_3MsByD84OtwPDMVX"}
