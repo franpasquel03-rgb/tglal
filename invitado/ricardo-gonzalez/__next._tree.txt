@@ -6,4 +6,4 @@
 :HL["/tglal/libros/never-split-the-difference.jpg","image"]
 :HL["/tglal/libros/profit-first.jpg","image"]
 :HL["/tglal/libros/why-greatness-cannot-be-planned.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"invitado","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"ricardo-gonzalez","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"8U4tyGedIapMa_pvQgUyW"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"invitado","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"ricardo-gonzalez","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"j37Vth6n1I7DuAnLnnefl"}

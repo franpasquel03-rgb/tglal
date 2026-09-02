@@ -7,4 +7,4 @@
 :HL["/tglal/libros/shoe-dog.jpg","image"]
 :HL["/tglal/libros/the-intelligent-investor.jpg","image"]
 :HL["/tglal/libros/the-ride-of-a-lifetime.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"invitado","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"emiliano-serna","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"8U4tyGedIapMa_pvQgUyW"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"invitado","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"emiliano-serna","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"j37Vth6n1I7DuAnLnnefl"}
