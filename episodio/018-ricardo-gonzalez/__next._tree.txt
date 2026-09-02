@@ -1,4 +1,4 @@
-:HL["/tglal/_next/static/chunks/3_czs8neljry-.css","style"]
+:HL["/tglal/_next/static/chunks/3gryaqpc370p2.css","style"]
 :HL["/tglal/_next/static/media/0c8f209abc35ee02-s.p.0c0g8ifvh7k7-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/tglal/_next/static/media/36363bfb06833f56-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/tglal/_next/static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -9,4 +9,4 @@
 :HL["/tglal/libros/why-greatness-cannot-be-planned.jpg","image"]
 :HL["/tglal/thumbs/ep-017.jpg","image"]
 :HL["/tglal/thumbs/ep-019.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"episodio","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"018-ricardo-gonzalez","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"eCJ39l7_PmjCeLmzh4eDR"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"episodio","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"018-ricardo-gonzalez","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"DI8lly2IObG8IarwEd0Kf"}
