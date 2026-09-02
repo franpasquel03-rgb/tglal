@@ -1,0 +1,199 @@
+{
+  "channel": "https://www.youtube.com/@TwoGuysLearningAboutLife",
+  "count": 26,
+  "total": 26,
+  "missing": [],
+  "notes": {
+    "003": "maxresdefault.jpg 404; used sddefault.jpg 640x480",
+    "020": "maxresdefault.jpg 404; used sddefault.jpg 640x480",
+    "018": "found on public channel as AG1a_LXQw58 (title starts 018 Ricardo)",
+    "021": "found on public channel as 3yfGs979wY8 (Emiliano Serna full episode; title has no #021)",
+    "026": "found on public channel as KvDWJJ5nT7A (#026 Rolando Vega Sáenz)",
+    "011": "used full episode LMmbN0t9yg8 (title #011), not trailer lZ9bo2yqy9s from episodes.ts",
+    "022": "used full episode Flrchv5JHRY (title #022), not short fXpUI3tqWKY from episodes.ts"
+  },
+  "episodes": [
+    {
+      "episode": "001",
+      "youtubeId": "f3ac2PoztJM",
+      "file": "/thumbs/ep-001.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/f3ac2PoztJM/maxresdefault.jpg"
+    },
+    {
+      "episode": "002",
+      "youtubeId": "atqPHtritI8",
+      "file": "/thumbs/ep-002.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/atqPHtritI8/maxresdefault.jpg"
+    },
+    {
+      "episode": "003",
+      "youtubeId": "VWPwB-XmMEU",
+      "file": "/thumbs/ep-003.jpg",
+      "quality": "sddefault",
+      "source": "https://i.ytimg.com/vi/VWPwB-XmMEU/sddefault.jpg"
+    },
+    {
+      "episode": "004",
+      "youtubeId": "C_B5nhDV828",
+      "file": "/thumbs/ep-004.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/C_B5nhDV828/maxresdefault.jpg"
+    },
+    {
+      "episode": "005",
+      "youtubeId": "1Sujg-fEssg",
+      "file": "/thumbs/ep-005.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/1Sujg-fEssg/maxresdefault.jpg"
+    },
+    {
+      "episode": "006",
+      "youtubeId": "XHP-tiy24Lo",
+      "file": "/thumbs/ep-006.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/XHP-tiy24Lo/maxresdefault.jpg"
+    },
+    {
+      "episode": "007",
+      "youtubeId": "EzaV1hqr1fY",
+      "file": "/thumbs/ep-007.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/EzaV1hqr1fY/maxresdefault.jpg"
+    },
+    {
+      "episode": "008",
+      "youtubeId": "Tgcmo8nCOdY",
+      "file": "/thumbs/ep-008.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/Tgcmo8nCOdY/maxresdefault.jpg"
+    },
+    {
+      "episode": "009",
+      "youtubeId": "KpeYP2QQJW8",
+      "file": "/thumbs/ep-009.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/KpeYP2QQJW8/maxresdefault.jpg"
+    },
+    {
+      "episode": "010",
+      "youtubeId": "eFpsut9wpP4",
+      "file": "/thumbs/ep-010.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/eFpsut9wpP4/maxresdefault.jpg"
+    },
+    {
+      "episode": "011",
+      "youtubeId": "LMmbN0t9yg8",
+      "file": "/thumbs/ep-011.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/LMmbN0t9yg8/maxresdefault.jpg"
+    },
+    {
+      "episode": "012",
+      "youtubeId": "DVz9ewg6dYM",
+      "file": "/thumbs/ep-012.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/DVz9ewg6dYM/maxresdefault.jpg"
+    },
+    {
+      "episode": "013",
+      "youtubeId": "915_wX8j5FU",
+      "file": "/thumbs/ep-013.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/915_wX8j5FU/maxresdefault.jpg"
+    },
+    {
+      "episode": "014",
+      "youtubeId": "ip3ZMFJ3hPo",
+      "file": "/thumbs/ep-014.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/ip3ZMFJ3hPo/maxresdefault.jpg"
+    },
+    {
+      "episode": "015",
+      "youtubeId": "gyWot2BkwQY",
+      "file": "/thumbs/ep-015.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/gyWot2BkwQY/maxresdefault.jpg"
+    },
+    {
+      "episode": "016",
+      "youtubeId": "39Da4oX3uyA",
+      "file": "/thumbs/ep-016.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/39Da4oX3uyA/maxresdefault.jpg"
+    },
+    {
+      "episode": "017",
+      "youtubeId": "qhQ5r3NRSEI",
+      "file": "/thumbs/ep-017.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/qhQ5r3NRSEI/maxresdefault.jpg"
+    },
+    {
+      "episode": "018",
+      "youtubeId": "AG1a_LXQw58",
+      "file": "/thumbs/ep-018.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/AG1a_LXQw58/maxresdefault.jpg"
+    },
+    {
+      "episode": "019",
+      "youtubeId": "_UQb_Ty8xas",
+      "file": "/thumbs/ep-019.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/_UQb_Ty8xas/maxresdefault.jpg"
+    },
+    {
+      "episode": "020",
+      "youtubeId": "ypjj1J4VDm8",
+      "file": "/thumbs/ep-020.jpg",
+      "quality": "sddefault",
+      "source": "https://i.ytimg.com/vi/ypjj1J4VDm8/sddefault.jpg"
+    },
+    {
+      "episode": "021",
+      "youtubeId": "3yfGs979wY8",
+      "file": "/thumbs/ep-021.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/3yfGs979wY8/maxresdefault.jpg"
+    },
+    {
+      "episode": "022",
+      "youtubeId": "Flrchv5JHRY",
+      "file": "/thumbs/ep-022.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/Flrchv5JHRY/maxresdefault.jpg"
+    },
+    {
+      "episode": "023",
+      "youtubeId": "5lk3CvvAv-Y",
+      "file": "/thumbs/ep-023.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/5lk3CvvAv-Y/maxresdefault.jpg"
+    },
+    {
+      "episode": "024",
+      "youtubeId": "5ukBz5u6_Y0",
+      "file": "/thumbs/ep-024.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/5ukBz5u6_Y0/maxresdefault.jpg"
+    },
+    {
+      "episode": "025",
+      "youtubeId": "Sy7rSx4CnQA",
+      "file": "/thumbs/ep-025.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/Sy7rSx4CnQA/maxresdefault.jpg"
+    },
+    {
+      "episode": "026",
+      "youtubeId": "KvDWJJ5nT7A",
+      "file": "/thumbs/ep-026.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/KvDWJJ5nT7A/maxresdefault.jpg"
+    }
+  ]
+}
