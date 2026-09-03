@@ -20,4 +20,4 @@
 :HL["/tglal/libros/the-evolution-of-everything.jpg","image"]
 :HL["/tglal/libros/the-fountainhead.jpg","image"]
 :HL["/tglal/libros/warriors-and-worriers.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"invitado","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"pablo-boullosa","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"H8NzRX2ooBrnlmywrQ5t8"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"invitado","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"pablo-boullosa","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"7eq5U6sY79PDAbQdan2Km"}
