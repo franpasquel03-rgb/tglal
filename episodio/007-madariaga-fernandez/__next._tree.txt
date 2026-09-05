@@ -4,4 +4,4 @@
 :HL["/_next/static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/65968dad6bcc3c8d-s.p.1z_yc9od1lq47.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/a73419dd2ba2d841-s.p.2yee423r7ahpo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"episodio","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"007-madariaga-fernandez","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"1w2-TYbbMS9yMsUaTieH5"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"episodio","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"007-madariaga-fernandez","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"kbATjvoO15UzgRO0M5fco"}
