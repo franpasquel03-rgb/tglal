@@ -1,7 +1,7 @@
 {
   "channel": "https://www.youtube.com/@TwoGuysLearningAboutLife",
-  "count": 26,
-  "total": 26,
+  "count": 27,
+  "total": 27,
   "missing": [],
   "notes": {
     "003": "maxresdefault.jpg 404; used sddefault.jpg 640x480",
@@ -10,7 +10,8 @@
     "021": "found on public channel as 3yfGs979wY8 (Emiliano Serna full episode; title has no #021)",
     "026": "found on public channel as KvDWJJ5nT7A (#026 Rolando Vega Sáenz)",
     "011": "used full episode LMmbN0t9yg8 (title #011), not trailer lZ9bo2yqy9s from episodes.ts",
-    "022": "used full episode Flrchv5JHRY (title #022), not short fXpUI3tqWKY from episodes.ts"
+    "022": "used full episode Flrchv5JHRY (title #022), not short fXpUI3tqWKY from episodes.ts",
+    "027": "full episode ccT-jTZkEr4 (#027 Rodrigo Ripstein); not short -4wjgN-_IHo"
   },
   "episodes": [
     {
@@ -194,6 +195,13 @@
       "file": "/thumbs/ep-026.jpg",
       "quality": "maxresdefault",
       "source": "https://i.ytimg.com/vi/KvDWJJ5nT7A/maxresdefault.jpg"
+    },
+    {
+      "episode": "027",
+      "youtubeId": "ccT-jTZkEr4",
+      "file": "/thumbs/ep-027.jpg",
+      "quality": "maxresdefault",
+      "source": "https://i.ytimg.com/vi/ccT-jTZkEr4/maxresdefault.jpg"
     }
   ]
 }
