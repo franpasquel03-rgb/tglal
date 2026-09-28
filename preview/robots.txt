@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://franpasquel03-rgb.github.io/tglal/preview/sitemap.xml

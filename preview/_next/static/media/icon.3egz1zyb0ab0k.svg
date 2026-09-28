@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Placa tipográfica del sistema: papel, filete y una T serif en tinta.
+       Georgia es el propio fallback serif de globals.css; los favicon SVG
+       no cargan webfonts, así que la letra usa esa pila directamente. -->
+  <rect width="64" height="64" fill="#F7F6F2"/>
+  <rect x="4.5" y="4.5" width="55" height="55" fill="none" stroke="#1A2E50" stroke-opacity="0.56" stroke-width="3"/>
+  <text x="32" y="49.3" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#1A2E50">T</text>
+</svg>
